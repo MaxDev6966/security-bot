@@ -1,9 +1,18 @@
 # security-bot
 
-Download New Package: `npm i` and then `npm init -y`.  
+Start: `node .`
 
-Start: `node .`  
+New package: `npm i` and `npm init -y`
+# `PROJECT MaxDev6966`
 
-Subscribe to https://youtube.com/@MaxDev6966 Join https://dsc.gg/maxgaming-yt for more support.
- 
-**Join Our Server for a Server Hosting to make your Bot Onlne 24/7!**
+☃︎ | Project Owner: MaxDev6966<br>⚠︎ | Do Not Change Any Of The Credits
+
+**__THE BEST GIVEAWAY DISCORD BOT__**
+
+**__MADE BY MaxDev6966__**
+
+`SUB TO MaxDev6966`
+
+`JOIN OUR SERVER FOR MORE UPDATES AND HELP`
+
+📝https://dsc.gg/maxgaming-yt
